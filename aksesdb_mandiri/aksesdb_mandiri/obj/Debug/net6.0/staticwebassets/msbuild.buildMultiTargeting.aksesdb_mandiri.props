@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aksesdb_mandiri.props" />
+</Project>
